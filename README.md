@@ -1,0 +1,1 @@
+This repository demonstrates a bug encountered when building an Expo app using expo-router and EAS Build. The development build works fine, but the release build fails with an unclear error message. The solution involves ensuring that the expo-router configuration is correct and all required dependencies are properly installed and linked.
